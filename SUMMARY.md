@@ -11,3 +11,6 @@
 * [Http](section3/README.md)
     * [android-async-http](section3/android-async-http/README.md)
 
+
+* [云服务](section5/README.md)
+    * [qiniu](section5/qiniu/README.md)
