@@ -9,6 +9,4 @@
     * [Android-PullLayout](section2/Android-PullLayout/README.md)
     * [android-Ultra-Pull-To-Refresh](section2/android-Ultra-Pull-To-Refresh/README-cn.md)
 
-* [Http](section3/README.md)
-    * [android-async-http](section3/android-async-http/README.md)
-    * [android-async-http](section3/AndroidAsync/README.md)
+
