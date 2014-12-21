@@ -7,3 +7,5 @@
     * [roboguice](section1/roboguice/README.md)
 * [控件](section2/README.md)
     * [刷新](section2/Android-PullLayout/README.md)
+* [Http](section3/README.md)
+    * [android-async-http](section3/android-async-http/README.md)
