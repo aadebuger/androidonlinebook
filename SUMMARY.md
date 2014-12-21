@@ -10,7 +10,5 @@
     * [android-Ultra-Pull-To-Refresh](section2/android-Ultra-Pull-To-Refresh/README-cn.md)
 * [Http](section3/README.md)
     * [android-async-http](section3/android-async-http/README.md)
-
-
 * [云服务](section5/README.md)
-    * [qiniu](section5/qiniu/README.md)
+    * [七牛](section5/qiniu/README.md)
